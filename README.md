@@ -13,10 +13,10 @@ $ cd your-next-project
 $ yarn
 ```
 
-3. Launch the dev mode
+3. Launch app
 
 ```bash
-$ yarn dev
+$ yarn start
 ```
 
 4. Result will appear on console screen.
