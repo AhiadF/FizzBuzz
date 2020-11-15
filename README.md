@@ -1,5 +1,3 @@
-# Node TypeScript Starter
-
 ## Getting started
 
 1. Clone this repository and open it
